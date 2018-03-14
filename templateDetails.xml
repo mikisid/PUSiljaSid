@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension version="2.5" client="site" type="template" method="upgrade">
+	<name>PUSiljaSid</name>
+	<creationDate>2018-03-03</creationDate>
+	<author>Milos Stevanovic</author>
+	<authorEmail>milos.stevanovic987@gmail.com</authorEmail>
+	<authorUrl>https://github.com/mikisid</authorUrl>
+	<description>Template for "PU Jelica Stanivukovic Šilja - Šid" by Miloš Stevanović</description>
+	<files>
+		<filename>index.php</filename>
+		<filename>templateDetails.xml</filename>
+		<folder>images</folder>
+		<folder>css</folder>
+	</files>
+	<position>
+		<position>header</position>
+		<position>side-menu</position>
+		<position>content</position>
+		<position>footer</position>
+		<position>otherPosition-1</position>
+		<position>otherPosition-2</position>
+		<position>otherPosition-3</position>
+		<position>otherPosition-4</position>
+		<position>otherPosition-5</position>
+		<position>otherPosition-6</position>
+		<position>otherPosition-7</position>
+	<position>
+</extension>
