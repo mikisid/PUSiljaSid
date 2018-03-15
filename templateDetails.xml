@@ -15,7 +15,7 @@
 	<position>
 		<position>header</position>
 		<position>side-menu</position>
-		<position>content</position>
+		<position>component</position>
 		<position>footer</position>
 		<position>otherPosition-1</position>
 		<position>otherPosition-2</position>
